@@ -1,0 +1,16 @@
+{
+  "name": "osh-sports-record",
+  "version": "0.1.0",
+  "description": "轻量级中文体育冠军、历史冠军和世界纪录实时查询服务。",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js",
+    "refresh": "node src/refresh.js",
+    "test": "node --test",
+    "check": "node src/refresh.js --check"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

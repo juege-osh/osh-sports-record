@@ -1,0 +1,2622 @@
+{
+  "schemaVersion": 1,
+  "locale": "zh-CN",
+  "generatedAt": "2026-06-07T15:16:26.898Z",
+  "sports": [
+    {
+      "id": "nba",
+      "nameZh": "NBA",
+      "nameEn": "National Basketball Association",
+      "category": "篮球",
+      "region": "美国/加拿大",
+      "status": "2026 总决赛进行中，2026 冠军尚未产生；当前冠军为最新已决赛季冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "俄克拉荷马城雷霆",
+        "winnerEn": "Oklahoma City Thunder",
+        "note": "2025 NBA 总冠军",
+        "sources": [
+          {
+            "title": "NBA History: NBA Champions",
+            "url": "https://www.nba.com/news/history-nba-champions",
+            "lastCheckedAt": "2026-06-07T15:16:36.902Z",
+            "httpStatus": 0,
+            "reachable": false,
+            "finalUrl": "https://www.nba.com/news/history-nba-champions",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：俄克拉荷马城雷霆",
+                "anyOf": [
+                  "Oklahoma City Thunder",
+                  "俄克拉荷马城雷霆"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "俄克拉荷马城雷霆",
+          "winnerEn": "Oklahoma City Thunder"
+        },
+        {
+          "season": "2024",
+          "winner": "波士顿凯尔特人",
+          "winnerEn": "Boston Celtics"
+        },
+        {
+          "season": "2023",
+          "winner": "丹佛掘金",
+          "winnerEn": "Denver Nuggets"
+        },
+        {
+          "season": "2022",
+          "winner": "金州勇士",
+          "winnerEn": "Golden State Warriors"
+        },
+        {
+          "season": "2021",
+          "winner": "密尔沃基雄鹿",
+          "winnerEn": "Milwaukee Bucks"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "NBA 历届冠军",
+          "url": "https://www.nba.com/news/history-nba-champions",
+          "lastCheckedAt": "2026-06-07T15:16:36.902Z",
+          "httpStatus": 0,
+          "reachable": false,
+          "finalUrl": "https://www.nba.com/news/history-nba-champions",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "wnba",
+      "nameZh": "WNBA",
+      "nameEn": "Women's National Basketball Association",
+      "category": "篮球",
+      "region": "美国",
+      "status": "2026 常规赛进行中；当前冠军为最新已决赛季冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "拉斯维加斯王牌",
+        "winnerEn": "Las Vegas Aces",
+        "note": "2025 WNBA 总冠军",
+        "sources": [
+          {
+            "title": "All-Time WNBA Champions",
+            "url": "https://www.wnba.com/all-time-wnba-champions/",
+            "lastCheckedAt": "2026-06-07T15:16:36.920Z",
+            "httpStatus": 0,
+            "reachable": false,
+            "finalUrl": "https://www.wnba.com/all-time-wnba-champions/",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：拉斯维加斯王牌",
+                "anyOf": [
+                  "Las Vegas Aces",
+                  "拉斯维加斯王牌"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "拉斯维加斯王牌",
+          "winnerEn": "Las Vegas Aces"
+        },
+        {
+          "season": "2024",
+          "winner": "纽约自由人",
+          "winnerEn": "New York Liberty"
+        },
+        {
+          "season": "2023",
+          "winner": "拉斯维加斯王牌",
+          "winnerEn": "Las Vegas Aces"
+        },
+        {
+          "season": "2022",
+          "winner": "拉斯维加斯王牌",
+          "winnerEn": "Las Vegas Aces"
+        },
+        {
+          "season": "2021",
+          "winner": "芝加哥天空",
+          "winnerEn": "Chicago Sky"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "WNBA 历届冠军",
+          "url": "https://www.wnba.com/all-time-wnba-champions/",
+          "lastCheckedAt": "2026-06-07T15:16:36.920Z",
+          "httpStatus": 0,
+          "reachable": false,
+          "finalUrl": "https://www.wnba.com/all-time-wnba-champions/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "cba",
+      "nameZh": "CBA 中国男子篮球职业联赛",
+      "nameEn": "Chinese Basketball Association",
+      "category": "篮球",
+      "region": "中国",
+      "status": "当前冠军为最新已决赛季冠军。",
+      "currentChampion": {
+        "season": "2024-25",
+        "winner": "浙江广厦雄狮",
+        "winnerEn": "Zhejiang Guangsha Lions",
+        "note": "2024-25 CBA 总冠军",
+        "sources": [
+          {
+            "title": "CBA 官方网站",
+            "url": "https://www.cbaleague.com/",
+            "lastCheckedAt": "2026-06-07T15:16:28.265Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.cbaleague.com/",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：浙江广厦雄狮",
+                "anyOf": [
+                  "Zhejiang Guangsha Lions",
+                  "浙江广厦雄狮"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2024-25",
+          "winner": "浙江广厦雄狮",
+          "winnerEn": "Zhejiang Guangsha Lions"
+        },
+        {
+          "season": "2023-24",
+          "winner": "辽宁飞豹",
+          "winnerEn": "Liaoning Flying Leopards"
+        },
+        {
+          "season": "2022-23",
+          "winner": "辽宁飞豹",
+          "winnerEn": "Liaoning Flying Leopards"
+        },
+        {
+          "season": "2021-22",
+          "winner": "辽宁飞豹",
+          "winnerEn": "Liaoning Flying Leopards"
+        },
+        {
+          "season": "2020-21",
+          "winner": "广东华南虎",
+          "winnerEn": "Guangdong Southern Tigers"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "CBA 官方网站",
+          "url": "https://www.cbaleague.com/",
+          "lastCheckedAt": "2026-06-07T15:16:28.265Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.cbaleague.com/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "nfl",
+      "nameZh": "NFL / 超级碗",
+      "nameEn": "National Football League / Super Bowl",
+      "category": "美式橄榄球",
+      "region": "美国",
+      "status": "休赛期；当前冠军为最近一届超级碗冠军。",
+      "currentChampion": {
+        "season": "2025 season / Super Bowl LX",
+        "winner": "西雅图海鹰",
+        "winnerEn": "Seattle Seahawks",
+        "note": "Super Bowl LX 冠军",
+        "sources": [
+          {
+            "title": "NFL Super Bowl LX recap",
+            "url": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win/",
+            "lastCheckedAt": "2026-06-07T15:16:27.794Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win",
+            "markerStatus": "verified",
+            "missingMarkers": []
+          },
+          {
+            "title": "Pro Football Reference Super Bowl winners",
+            "url": "https://www.pro-football-reference.com/super-bowl/",
+            "lastCheckedAt": "2026-06-07T15:16:27.238Z",
+            "httpStatus": 403,
+            "reachable": false,
+            "finalUrl": "https://www.pro-football-reference.com/super-bowl/",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：西雅图海鹰",
+                "anyOf": [
+                  "Seattle Seahawks",
+                  "西雅图海鹰"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "Super Bowl LX",
+          "winner": "西雅图海鹰",
+          "winnerEn": "Seattle Seahawks"
+        },
+        {
+          "season": "Super Bowl LIX",
+          "winner": "费城老鹰",
+          "winnerEn": "Philadelphia Eagles"
+        },
+        {
+          "season": "Super Bowl LVIII",
+          "winner": "堪萨斯城酋长",
+          "winnerEn": "Kansas City Chiefs"
+        },
+        {
+          "season": "Super Bowl LVII",
+          "winner": "堪萨斯城酋长",
+          "winnerEn": "Kansas City Chiefs"
+        },
+        {
+          "season": "Super Bowl LVI",
+          "winner": "洛杉矶公羊",
+          "winnerEn": "Los Angeles Rams"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "NFL Super Bowl LX",
+          "url": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win/",
+          "lastCheckedAt": "2026-06-07T15:16:27.794Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        },
+        {
+          "title": "Super Bowl winners",
+          "url": "https://www.pro-football-reference.com/super-bowl/",
+          "lastCheckedAt": "2026-06-07T15:16:27.238Z",
+          "httpStatus": 403,
+          "reachable": false,
+          "finalUrl": "https://www.pro-football-reference.com/super-bowl/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "mlb",
+      "nameZh": "MLB / 世界大赛",
+      "nameEn": "Major League Baseball / World Series",
+      "category": "棒球",
+      "region": "美国/加拿大",
+      "status": "2026 常规赛进行中；当前冠军为最新已决世界大赛冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "洛杉矶道奇",
+        "winnerEn": "Los Angeles Dodgers",
+        "note": "2025 World Series 冠军",
+        "sources": [
+          {
+            "title": "World Series winners",
+            "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
+            "lastCheckedAt": "2026-06-07T15:16:27.263Z",
+            "httpStatus": 403,
+            "reachable": false,
+            "finalUrl": "https://www.baseball-reference.com/postseason/world-series.shtml",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：洛杉矶道奇",
+                "anyOf": [
+                  "Los Angeles Dodgers",
+                  "洛杉矶道奇"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "洛杉矶道奇",
+          "winnerEn": "Los Angeles Dodgers"
+        },
+        {
+          "season": "2024",
+          "winner": "洛杉矶道奇",
+          "winnerEn": "Los Angeles Dodgers"
+        },
+        {
+          "season": "2023",
+          "winner": "德州游骑兵",
+          "winnerEn": "Texas Rangers"
+        },
+        {
+          "season": "2022",
+          "winner": "休斯顿太空人",
+          "winnerEn": "Houston Astros"
+        },
+        {
+          "season": "2021",
+          "winner": "亚特兰大勇士",
+          "winnerEn": "Atlanta Braves"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "World Series winners",
+          "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
+          "lastCheckedAt": "2026-06-07T15:16:27.263Z",
+          "httpStatus": 403,
+          "reachable": false,
+          "finalUrl": "https://www.baseball-reference.com/postseason/world-series.shtml",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "nhl",
+      "nameZh": "NHL / 斯坦利杯",
+      "nameEn": "National Hockey League / Stanley Cup",
+      "category": "冰球",
+      "region": "美国/加拿大",
+      "status": "2026 斯坦利杯总决赛进行中；当前冠军为最新已决赛季冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "佛罗里达美洲豹",
+        "winnerEn": "Florida Panthers",
+        "note": "2025 Stanley Cup 冠军",
+        "sources": [
+          {
+            "title": "NHL Stanley Cup Champions",
+            "url": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
+            "lastCheckedAt": "2026-06-07T15:16:27.953Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
+            "markerStatus": "verified",
+            "missingMarkers": []
+          }
+        ],
+        "needsReview": false
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "佛罗里达美洲豹",
+          "winnerEn": "Florida Panthers"
+        },
+        {
+          "season": "2024",
+          "winner": "佛罗里达美洲豹",
+          "winnerEn": "Florida Panthers"
+        },
+        {
+          "season": "2023",
+          "winner": "维加斯黄金骑士",
+          "winnerEn": "Vegas Golden Knights"
+        },
+        {
+          "season": "2022",
+          "winner": "科罗拉多雪崩",
+          "winnerEn": "Colorado Avalanche"
+        },
+        {
+          "season": "2021",
+          "winner": "坦帕湾闪电",
+          "winnerEn": "Tampa Bay Lightning"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "NHL 历届斯坦利杯冠军",
+          "url": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
+          "lastCheckedAt": "2026-06-07T15:16:27.953Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "premier-league",
+      "nameZh": "英格兰足球超级联赛",
+      "nameEn": "Premier League",
+      "category": "足球",
+      "region": "英格兰",
+      "status": "2025-26 赛季已结束；当前冠军为最新赛季冠军。",
+      "currentChampion": {
+        "season": "2025-26",
+        "winner": "阿森纳",
+        "winnerEn": "Arsenal",
+        "note": "2025-26 Premier League 冠军",
+        "sources": [
+          {
+            "title": "Premier League title report",
+            "url": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
+            "lastCheckedAt": "2026-06-07T15:16:27.549Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
+            "markerStatus": "verified",
+            "missingMarkers": []
+          }
+        ],
+        "needsReview": false
+      },
+      "historicalChampions": [
+        {
+          "season": "2025-26",
+          "winner": "阿森纳",
+          "winnerEn": "Arsenal"
+        },
+        {
+          "season": "2024-25",
+          "winner": "利物浦",
+          "winnerEn": "Liverpool"
+        },
+        {
+          "season": "2023-24",
+          "winner": "曼城",
+          "winnerEn": "Manchester City"
+        },
+        {
+          "season": "2022-23",
+          "winner": "曼城",
+          "winnerEn": "Manchester City"
+        },
+        {
+          "season": "2021-22",
+          "winner": "曼城",
+          "winnerEn": "Manchester City"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Premier League 冠军报道",
+          "url": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
+          "lastCheckedAt": "2026-06-07T15:16:27.549Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "uefa-champions-league",
+      "nameZh": "欧洲冠军联赛",
+      "nameEn": "UEFA Champions League",
+      "category": "足球",
+      "region": "欧洲",
+      "status": "2025-26 赛季已结束；当前冠军为最新赛季冠军。",
+      "currentChampion": {
+        "season": "2025-26",
+        "winner": "巴黎圣日耳曼",
+        "winnerEn": "Paris Saint-Germain",
+        "note": "2025-26 UEFA Champions League 冠军",
+        "sources": [
+          {
+            "title": "UEFA Champions League winners",
+            "url": "https://www.uefa.com/uefachampionsleague/history/winners/",
+            "lastCheckedAt": "2026-06-07T15:16:27.648Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.uefa.com/uefachampionsleague/history/winners/",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：巴黎圣日耳曼",
+                "anyOf": [
+                  "Paris Saint-Germain",
+                  "巴黎圣日耳曼"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025-26",
+          "winner": "巴黎圣日耳曼",
+          "winnerEn": "Paris Saint-Germain"
+        },
+        {
+          "season": "2024-25",
+          "winner": "巴黎圣日耳曼",
+          "winnerEn": "Paris Saint-Germain"
+        },
+        {
+          "season": "2023-24",
+          "winner": "皇家马德里",
+          "winnerEn": "Real Madrid"
+        },
+        {
+          "season": "2022-23",
+          "winner": "曼城",
+          "winnerEn": "Manchester City"
+        },
+        {
+          "season": "2021-22",
+          "winner": "皇家马德里",
+          "winnerEn": "Real Madrid"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "UEFA Champions League winners",
+          "url": "https://www.uefa.com/uefachampionsleague/history/winners/",
+          "lastCheckedAt": "2026-06-07T15:16:27.648Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.uefa.com/uefachampionsleague/history/winners/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "uefa-europa-league",
+      "nameZh": "欧洲足联欧洲联赛",
+      "nameEn": "UEFA Europa League",
+      "category": "足球",
+      "region": "欧洲",
+      "status": "2025-26 赛季已结束；当前冠军为最新赛季冠军。",
+      "currentChampion": {
+        "season": "2025-26",
+        "winner": "阿斯顿维拉",
+        "winnerEn": "Aston Villa",
+        "note": "2025-26 UEFA Europa League 冠军",
+        "sources": [
+          {
+            "title": "UEFA Europa League winners",
+            "url": "https://www.uefa.com/uefaeuropaleague/history/winners/",
+            "lastCheckedAt": "2026-06-07T15:16:27.675Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.uefa.com/uefaeuropaleague/history/winners/",
+            "markerStatus": "verified",
+            "missingMarkers": []
+          }
+        ],
+        "needsReview": false
+      },
+      "historicalChampions": [
+        {
+          "season": "2025-26",
+          "winner": "阿斯顿维拉",
+          "winnerEn": "Aston Villa"
+        },
+        {
+          "season": "2024-25",
+          "winner": "托特纳姆热刺",
+          "winnerEn": "Tottenham Hotspur"
+        },
+        {
+          "season": "2023-24",
+          "winner": "亚特兰大",
+          "winnerEn": "Atalanta"
+        },
+        {
+          "season": "2022-23",
+          "winner": "塞维利亚",
+          "winnerEn": "Sevilla"
+        },
+        {
+          "season": "2021-22",
+          "winner": "法兰克福",
+          "winnerEn": "Eintracht Frankfurt"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "UEFA Europa League winners",
+          "url": "https://www.uefa.com/uefaeuropaleague/history/winners/",
+          "lastCheckedAt": "2026-06-07T15:16:27.675Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.uefa.com/uefaeuropaleague/history/winners/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fifa-world-cup-men",
+      "nameZh": "FIFA 男足世界杯",
+      "nameEn": "FIFA World Cup",
+      "category": "足球",
+      "region": "世界",
+      "status": "2026 世界杯将于 2026-06-11 开赛；当前冠军为 2022 卫冕冠军。",
+      "currentChampion": {
+        "season": "2022",
+        "winner": "阿根廷",
+        "winnerEn": "Argentina",
+        "note": "2022 FIFA World Cup 冠军",
+        "sources": [
+          {
+            "title": "FIFA World Cup champions",
+            "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
+            "lastCheckedAt": "2026-06-07T15:16:28.075Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：阿根廷",
+                "anyOf": [
+                  "Argentina",
+                  "阿根廷"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2022",
+          "winner": "阿根廷",
+          "winnerEn": "Argentina"
+        },
+        {
+          "season": "2018",
+          "winner": "法国",
+          "winnerEn": "France"
+        },
+        {
+          "season": "2014",
+          "winner": "德国",
+          "winnerEn": "Germany"
+        },
+        {
+          "season": "2010",
+          "winner": "西班牙",
+          "winnerEn": "Spain"
+        },
+        {
+          "season": "2006",
+          "winner": "意大利",
+          "winnerEn": "Italy"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "FIFA World Cup champions",
+          "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
+          "lastCheckedAt": "2026-06-07T15:16:28.075Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "fifa-world-cup-women",
+      "nameZh": "FIFA 女足世界杯",
+      "nameEn": "FIFA Women's World Cup",
+      "category": "足球",
+      "region": "世界",
+      "status": "当前冠军为最近一届女足世界杯冠军。",
+      "currentChampion": {
+        "season": "2023",
+        "winner": "西班牙",
+        "winnerEn": "Spain",
+        "note": "2023 FIFA Women's World Cup 冠军",
+        "sources": [
+          {
+            "title": "FIFA Women's World Cup history",
+            "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
+            "lastCheckedAt": "2026-06-07T15:16:28.374Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：西班牙",
+                "anyOf": [
+                  "Spain",
+                  "西班牙"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2023",
+          "winner": "西班牙",
+          "winnerEn": "Spain"
+        },
+        {
+          "season": "2019",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2015",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2011",
+          "winner": "日本",
+          "winnerEn": "Japan"
+        },
+        {
+          "season": "2007",
+          "winner": "德国",
+          "winnerEn": "Germany"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "FIFA Women's World Cup",
+          "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
+          "lastCheckedAt": "2026-06-07T15:16:28.374Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "afc-asian-cup",
+      "nameZh": "亚足联亚洲杯",
+      "nameEn": "AFC Asian Cup",
+      "category": "足球",
+      "region": "亚洲",
+      "status": "当前冠军为最近一届亚洲杯冠军。",
+      "currentChampion": {
+        "season": "2023",
+        "winner": "卡塔尔",
+        "winnerEn": "Qatar",
+        "note": "2023 AFC Asian Cup 冠军，赛事于 2024 年举行。",
+        "sources": [
+          {
+            "title": "AFC Asian Cup",
+            "url": "https://www.the-afc.com/en/national/afc_asian_cup.html",
+            "lastCheckedAt": "2026-06-07T15:16:28.284Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.the-afc.com/en/national/afc_asian_cup.html",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：卡塔尔",
+                "anyOf": [
+                  "Qatar",
+                  "卡塔尔"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2023",
+          "winner": "卡塔尔",
+          "winnerEn": "Qatar"
+        },
+        {
+          "season": "2019",
+          "winner": "卡塔尔",
+          "winnerEn": "Qatar"
+        },
+        {
+          "season": "2015",
+          "winner": "澳大利亚",
+          "winnerEn": "Australia"
+        },
+        {
+          "season": "2011",
+          "winner": "日本",
+          "winnerEn": "Japan"
+        },
+        {
+          "season": "2007",
+          "winner": "伊拉克",
+          "winnerEn": "Iraq"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "AFC Asian Cup",
+          "url": "https://www.the-afc.com/en/national/afc_asian_cup.html",
+          "lastCheckedAt": "2026-06-07T15:16:28.284Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.the-afc.com/en/national/afc_asian_cup.html",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "mls",
+      "nameZh": "美国职业足球大联盟",
+      "nameEn": "Major League Soccer",
+      "category": "足球",
+      "region": "美国/加拿大",
+      "status": "2026 赛季进行中；当前冠军为最新已决 MLS Cup 冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "迈阿密国际",
+        "winnerEn": "Inter Miami CF",
+        "note": "2025 MLS Cup 冠军",
+        "sources": [
+          {
+            "title": "MLS Cup champions",
+            "url": "https://www.mlssoccer.com/history/mls-cup",
+            "lastCheckedAt": "2026-06-07T15:16:29.107Z",
+            "httpStatus": 404,
+            "reachable": false,
+            "finalUrl": "https://www.mlssoccer.com/history/mls-cup",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：迈阿密国际",
+                "anyOf": [
+                  "Inter Miami CF",
+                  "迈阿密国际"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "迈阿密国际",
+          "winnerEn": "Inter Miami CF"
+        },
+        {
+          "season": "2024",
+          "winner": "洛杉矶银河",
+          "winnerEn": "LA Galaxy"
+        },
+        {
+          "season": "2023",
+          "winner": "哥伦布机员",
+          "winnerEn": "Columbus Crew"
+        },
+        {
+          "season": "2022",
+          "winner": "洛杉矶FC",
+          "winnerEn": "Los Angeles FC"
+        },
+        {
+          "season": "2021",
+          "winner": "纽约城FC",
+          "winnerEn": "New York City FC"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "MLS Cup history",
+          "url": "https://www.mlssoccer.com/history/mls-cup",
+          "lastCheckedAt": "2026-06-07T15:16:29.107Z",
+          "httpStatus": 404,
+          "reachable": false,
+          "finalUrl": "https://www.mlssoccer.com/history/mls-cup",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "f1",
+      "nameZh": "一级方程式赛车",
+      "nameEn": "Formula 1",
+      "category": "赛车",
+      "region": "世界",
+      "status": "2026 赛季进行中；当前冠军为上一完整赛季车手/车队冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "兰多·诺里斯 / 迈凯伦",
+        "winnerEn": "Lando Norris / McLaren",
+        "note": "2025 F1 车手冠军 / 车队冠军",
+        "sources": [
+          {
+            "title": "Formula 1 champions",
+            "url": "https://www.formula1.com/en/results",
+            "lastCheckedAt": "2026-06-07T15:16:28.722Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.formula1.com/en/results/2026/races",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：兰多·诺里斯 / 迈凯伦",
+                "anyOf": [
+                  "Lando Norris / McLaren",
+                  "兰多·诺里斯 / 迈凯伦"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "McLaren 2025 championship",
+            "url": "https://www.mclaren.com/racing/heritage/formula-1/2025-championship/",
+            "lastCheckedAt": "2026-06-07T15:16:28.527Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.mclaren.com/racing/heritage/formula-1/2025-championship/",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：兰多·诺里斯 / 迈凯伦",
+                "anyOf": [
+                  "Lando Norris / McLaren",
+                  "兰多·诺里斯 / 迈凯伦"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "兰多·诺里斯 / 迈凯伦",
+          "winnerEn": "Lando Norris / McLaren"
+        },
+        {
+          "season": "2024",
+          "winner": "马克斯·维斯塔潘 / 迈凯伦",
+          "winnerEn": "Max Verstappen / McLaren"
+        },
+        {
+          "season": "2023",
+          "winner": "马克斯·维斯塔潘 / 红牛",
+          "winnerEn": "Max Verstappen / Red Bull Racing"
+        },
+        {
+          "season": "2022",
+          "winner": "马克斯·维斯塔潘 / 红牛",
+          "winnerEn": "Max Verstappen / Red Bull Racing"
+        },
+        {
+          "season": "2021",
+          "winner": "马克斯·维斯塔潘 / 梅赛德斯",
+          "winnerEn": "Max Verstappen / Mercedes"
+        }
+      ],
+      "records": [
+        {
+          "event": "单圈最快平均速度",
+          "value": "264.362 km/h",
+          "holder": "刘易斯·汉密尔顿",
+          "holderEn": "Lewis Hamilton",
+          "date": "2020-09-05",
+          "venue": "蒙扎",
+          "scope": "F1 排位赛纪录",
+          "sources": [
+            {
+              "title": "Formula 1 records",
+              "url": "https://www.formula1.com/",
+              "lastCheckedAt": "2026-06-07T15:16:28.663Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.formula1.com/",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "单圈最快平均速度 保持者",
+                  "anyOf": [
+                    "Lewis Hamilton",
+                    "刘易斯·汉密尔顿"
+                  ]
+                },
+                {
+                  "label": "单圈最快平均速度 成绩",
+                  "anyOf": [
+                    "264.362 km/h"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "Formula 1 results",
+          "url": "https://www.formula1.com/en/results",
+          "lastCheckedAt": "2026-06-07T15:16:28.722Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.formula1.com/en/results/2026/races",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-australian-open-men",
+      "nameZh": "澳大利亚网球公开赛男单",
+      "nameEn": "Australian Open Men's Singles",
+      "category": "网球",
+      "region": "澳大利亚",
+      "status": "当前冠军为最近一届男单冠军。",
+      "currentChampion": {
+        "season": "2026",
+        "winner": "扬尼克·辛纳",
+        "winnerEn": "Jannik Sinner",
+        "note": "2026 Australian Open 男单冠军",
+        "sources": [
+          {
+            "title": "Australian Open champions",
+            "url": "https://ausopen.com/history/honour-roll",
+            "lastCheckedAt": "2026-06-07T15:16:28.848Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://ausopen.com/history/honour-roll",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：扬尼克·辛纳",
+                "anyOf": [
+                  "Jannik Sinner",
+                  "扬尼克·辛纳"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2026",
+          "winner": "扬尼克·辛纳",
+          "winnerEn": "Jannik Sinner"
+        },
+        {
+          "season": "2025",
+          "winner": "扬尼克·辛纳",
+          "winnerEn": "Jannik Sinner"
+        },
+        {
+          "season": "2024",
+          "winner": "扬尼克·辛纳",
+          "winnerEn": "Jannik Sinner"
+        },
+        {
+          "season": "2023",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        },
+        {
+          "season": "2022",
+          "winner": "拉斐尔·纳达尔",
+          "winnerEn": "Rafael Nadal"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Australian Open honour roll",
+          "url": "https://ausopen.com/history/honour-roll",
+          "lastCheckedAt": "2026-06-07T15:16:28.848Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://ausopen.com/history/honour-roll",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-australian-open-women",
+      "nameZh": "澳大利亚网球公开赛女单",
+      "nameEn": "Australian Open Women's Singles",
+      "category": "网球",
+      "region": "澳大利亚",
+      "status": "当前冠军为最近一届女单冠军。",
+      "currentChampion": {
+        "season": "2026",
+        "winner": "阿丽娜·萨巴伦卡",
+        "winnerEn": "Aryna Sabalenka",
+        "note": "2026 Australian Open 女单冠军",
+        "sources": [
+          {
+            "title": "Australian Open champions",
+            "url": "https://ausopen.com/history/honour-roll",
+            "lastCheckedAt": "2026-06-07T15:16:28.848Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://ausopen.com/history/honour-roll",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：阿丽娜·萨巴伦卡",
+                "anyOf": [
+                  "Aryna Sabalenka",
+                  "阿丽娜·萨巴伦卡"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2026",
+          "winner": "阿丽娜·萨巴伦卡",
+          "winnerEn": "Aryna Sabalenka"
+        },
+        {
+          "season": "2025",
+          "winner": "麦迪逊·凯斯",
+          "winnerEn": "Madison Keys"
+        },
+        {
+          "season": "2024",
+          "winner": "阿丽娜·萨巴伦卡",
+          "winnerEn": "Aryna Sabalenka"
+        },
+        {
+          "season": "2023",
+          "winner": "阿丽娜·萨巴伦卡",
+          "winnerEn": "Aryna Sabalenka"
+        },
+        {
+          "season": "2022",
+          "winner": "阿什莉·巴蒂",
+          "winnerEn": "Ashleigh Barty"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Australian Open honour roll",
+          "url": "https://ausopen.com/history/honour-roll",
+          "lastCheckedAt": "2026-06-07T15:16:28.848Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://ausopen.com/history/honour-roll",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-french-open-men",
+      "nameZh": "法国网球公开赛男单",
+      "nameEn": "Roland-Garros Men's Singles",
+      "category": "网球",
+      "region": "法国",
+      "status": "2026 赛事临近/进行期；当前冠军为最新已决男单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "卡洛斯·阿尔卡拉斯",
+        "winnerEn": "Carlos Alcaraz",
+        "note": "2025 Roland-Garros 男单冠军",
+        "sources": [
+          {
+            "title": "Roland-Garros winners",
+            "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-men",
+            "lastCheckedAt": "2026-06-07T15:16:28.956Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.rolandgarros.com/en-us/",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：卡洛斯·阿尔卡拉斯",
+                "anyOf": [
+                  "Carlos Alcaraz",
+                  "卡洛斯·阿尔卡拉斯"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2024",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2023",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        },
+        {
+          "season": "2022",
+          "winner": "拉斐尔·纳达尔",
+          "winnerEn": "Rafael Nadal"
+        },
+        {
+          "season": "2021",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Roland-Garros men's honour roll",
+          "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-men",
+          "lastCheckedAt": "2026-06-07T15:16:28.956Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.rolandgarros.com/en-us/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-french-open-women",
+      "nameZh": "法国网球公开赛女单",
+      "nameEn": "Roland-Garros Women's Singles",
+      "category": "网球",
+      "region": "法国",
+      "status": "2026 赛事临近/进行期；当前冠军为最新已决女单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "可可·高芙",
+        "winnerEn": "Coco Gauff",
+        "note": "2025 Roland-Garros 女单冠军",
+        "sources": [
+          {
+            "title": "Roland-Garros winners",
+            "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-women",
+            "lastCheckedAt": "2026-06-07T15:16:28.912Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.rolandgarros.com/en-us/",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：可可·高芙",
+                "anyOf": [
+                  "Coco Gauff",
+                  "可可·高芙"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "可可·高芙",
+          "winnerEn": "Coco Gauff"
+        },
+        {
+          "season": "2024",
+          "winner": "伊加·斯维亚特克",
+          "winnerEn": "Iga Swiatek"
+        },
+        {
+          "season": "2023",
+          "winner": "伊加·斯维亚特克",
+          "winnerEn": "Iga Swiatek"
+        },
+        {
+          "season": "2022",
+          "winner": "伊加·斯维亚特克",
+          "winnerEn": "Iga Swiatek"
+        },
+        {
+          "season": "2021",
+          "winner": "巴尔博拉·克赖奇科娃",
+          "winnerEn": "Barbora Krejcikova"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Roland-Garros women's honour roll",
+          "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-women",
+          "lastCheckedAt": "2026-06-07T15:16:28.912Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.rolandgarros.com/en-us/",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-wimbledon-men",
+      "nameZh": "温布尔登网球锦标赛男单",
+      "nameEn": "Wimbledon Gentlemen's Singles",
+      "category": "网球",
+      "region": "英国",
+      "status": "当前冠军为最近一届男单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "扬尼克·辛纳",
+        "winnerEn": "Jannik Sinner",
+        "note": "2025 Wimbledon 男单冠军",
+        "sources": [
+          {
+            "title": "Wimbledon roll of honour",
+            "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
+            "lastCheckedAt": "2026-06-07T15:16:29.710Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：扬尼克·辛纳",
+                "anyOf": [
+                  "Jannik Sinner",
+                  "扬尼克·辛纳"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "扬尼克·辛纳",
+          "winnerEn": "Jannik Sinner"
+        },
+        {
+          "season": "2024",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2023",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2022",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        },
+        {
+          "season": "2021",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Wimbledon champions",
+          "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
+          "lastCheckedAt": "2026-06-07T15:16:29.710Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-wimbledon-women",
+      "nameZh": "温布尔登网球锦标赛女单",
+      "nameEn": "Wimbledon Ladies' Singles",
+      "category": "网球",
+      "region": "英国",
+      "status": "当前冠军为最近一届女单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "伊加·斯维亚特克",
+        "winnerEn": "Iga Swiatek",
+        "note": "2025 Wimbledon 女单冠军",
+        "sources": [
+          {
+            "title": "Wimbledon roll of honour",
+            "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
+            "lastCheckedAt": "2026-06-07T15:16:29.710Z",
+            "httpStatus": 200,
+            "reachable": true,
+            "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
+            "markerStatus": "stale",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：伊加·斯维亚特克",
+                "anyOf": [
+                  "Iga Swiatek",
+                  "伊加·斯维亚特克"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "伊加·斯维亚特克",
+          "winnerEn": "Iga Swiatek"
+        },
+        {
+          "season": "2024",
+          "winner": "巴尔博拉·克赖奇科娃",
+          "winnerEn": "Barbora Krejcikova"
+        },
+        {
+          "season": "2023",
+          "winner": "马尔凯塔·万卓索娃",
+          "winnerEn": "Marketa Vondrousova"
+        },
+        {
+          "season": "2022",
+          "winner": "叶莲娜·莱巴金娜",
+          "winnerEn": "Elena Rybakina"
+        },
+        {
+          "season": "2021",
+          "winner": "阿什莉·巴蒂",
+          "winnerEn": "Ashleigh Barty"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Wimbledon champions",
+          "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
+          "lastCheckedAt": "2026-06-07T15:16:29.710Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-us-open-men",
+      "nameZh": "美国网球公开赛男单",
+      "nameEn": "US Open Men's Singles",
+      "category": "网球",
+      "region": "美国",
+      "status": "当前冠军为最近一届男单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "卡洛斯·阿尔卡拉斯",
+        "winnerEn": "Carlos Alcaraz",
+        "note": "2025 US Open 男单冠军",
+        "sources": [
+          {
+            "title": "US Open champions",
+            "url": "https://www.usopen.org/en_US/visit/history/mschamps.html",
+            "lastCheckedAt": "2026-06-07T15:16:38.913Z",
+            "httpStatus": 0,
+            "reachable": false,
+            "finalUrl": "https://www.usopen.org/en_US/visit/history/mschamps.html",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：卡洛斯·阿尔卡拉斯",
+                "anyOf": [
+                  "Carlos Alcaraz",
+                  "卡洛斯·阿尔卡拉斯"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2024",
+          "winner": "扬尼克·辛纳",
+          "winnerEn": "Jannik Sinner"
+        },
+        {
+          "season": "2023",
+          "winner": "诺瓦克·德约科维奇",
+          "winnerEn": "Novak Djokovic"
+        },
+        {
+          "season": "2022",
+          "winner": "卡洛斯·阿尔卡拉斯",
+          "winnerEn": "Carlos Alcaraz"
+        },
+        {
+          "season": "2021",
+          "winner": "丹尼尔·梅德韦杰夫",
+          "winnerEn": "Daniil Medvedev"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "US Open men's champions",
+          "url": "https://www.usopen.org/en_US/visit/history/mschamps.html",
+          "lastCheckedAt": "2026-06-07T15:16:38.913Z",
+          "httpStatus": 0,
+          "reachable": false,
+          "finalUrl": "https://www.usopen.org/en_US/visit/history/mschamps.html",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "tennis-us-open-women",
+      "nameZh": "美国网球公开赛女单",
+      "nameEn": "US Open Women's Singles",
+      "category": "网球",
+      "region": "美国",
+      "status": "当前冠军为最近一届女单冠军。",
+      "currentChampion": {
+        "season": "2025",
+        "winner": "阿丽娜·萨巴伦卡",
+        "winnerEn": "Aryna Sabalenka",
+        "note": "2025 US Open 女单冠军",
+        "sources": [
+          {
+            "title": "US Open champions",
+            "url": "https://www.usopen.org/en_US/visit/history/wschamps.html",
+            "lastCheckedAt": "2026-06-07T15:16:38.958Z",
+            "httpStatus": 0,
+            "reachable": false,
+            "finalUrl": "https://www.usopen.org/en_US/visit/history/wschamps.html",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：阿丽娜·萨巴伦卡",
+                "anyOf": [
+                  "Aryna Sabalenka",
+                  "阿丽娜·萨巴伦卡"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2025",
+          "winner": "阿丽娜·萨巴伦卡",
+          "winnerEn": "Aryna Sabalenka"
+        },
+        {
+          "season": "2024",
+          "winner": "阿丽娜·萨巴伦卡",
+          "winnerEn": "Aryna Sabalenka"
+        },
+        {
+          "season": "2023",
+          "winner": "可可·高芙",
+          "winnerEn": "Coco Gauff"
+        },
+        {
+          "season": "2022",
+          "winner": "伊加·斯维亚特克",
+          "winnerEn": "Iga Swiatek"
+        },
+        {
+          "season": "2021",
+          "winner": "艾玛·拉杜卡努",
+          "winnerEn": "Emma Raducanu"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "US Open women's champions",
+          "url": "https://www.usopen.org/en_US/visit/history/wschamps.html",
+          "lastCheckedAt": "2026-06-07T15:16:38.958Z",
+          "httpStatus": 0,
+          "reachable": false,
+          "finalUrl": "https://www.usopen.org/en_US/visit/history/wschamps.html",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "olympics-summer",
+      "nameZh": "夏季奥林匹克运动会奖牌榜",
+      "nameEn": "Summer Olympic Games medal table",
+      "category": "综合赛事",
+      "region": "世界",
+      "status": "当前为最近一届夏奥会奖牌榜第一。",
+      "currentChampion": {
+        "season": "2024 Paris",
+        "winner": "美国",
+        "winnerEn": "United States",
+        "note": "按金牌/奖牌榜口径，美国位列 2024 巴黎奥运会奖牌榜第一。",
+        "sources": [
+          {
+            "title": "Olympics Paris 2024 medal table",
+            "url": "https://olympics.com/en/paris-2024/medals",
+            "lastCheckedAt": "2026-06-07T15:16:39.110Z",
+            "httpStatus": 0,
+            "reachable": false,
+            "finalUrl": "https://olympics.com/en/paris-2024/medals",
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：美国",
+                "anyOf": [
+                  "United States",
+                  "美国"
+                ]
+              }
+            ]
+          }
+        ],
+        "needsReview": true
+      },
+      "historicalChampions": [
+        {
+          "season": "2024 Paris",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2020 Tokyo",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2016 Rio",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2012 London",
+          "winner": "美国",
+          "winnerEn": "United States"
+        },
+        {
+          "season": "2008 Beijing",
+          "winner": "中国",
+          "winnerEn": "China"
+        }
+      ],
+      "records": [],
+      "sources": [
+        {
+          "title": "Paris 2024 medals",
+          "url": "https://olympics.com/en/paris-2024/medals",
+          "lastCheckedAt": "2026-06-07T15:16:39.110Z",
+          "httpStatus": 0,
+          "reachable": false,
+          "finalUrl": "https://olympics.com/en/paris-2024/medals",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "athletics-sprints",
+      "nameZh": "田径短跑世界纪录",
+      "nameEn": "Athletics sprint world records",
+      "category": "田径",
+      "region": "世界",
+      "status": "世界纪录按世界田联公开纪录表维护。",
+      "currentChampion": null,
+      "historicalChampions": [],
+      "records": [
+        {
+          "event": "男子 100 米",
+          "value": "9.58 秒",
+          "holder": "尤塞恩·博尔特",
+          "holderEn": "Usain Bolt",
+          "date": "2009-08-16",
+          "venue": "柏林",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 100 米 保持者",
+                  "anyOf": [
+                    "Usain Bolt",
+                    "尤塞恩·博尔特"
+                  ]
+                },
+                {
+                  "label": "男子 100 米 成绩",
+                  "anyOf": [
+                    "9.58 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "男子 200 米",
+          "value": "19.19 秒",
+          "holder": "尤塞恩·博尔特",
+          "holderEn": "Usain Bolt",
+          "date": "2009-08-20",
+          "venue": "柏林",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 200 米 保持者",
+                  "anyOf": [
+                    "Usain Bolt",
+                    "尤塞恩·博尔特"
+                  ]
+                },
+                {
+                  "label": "男子 200 米 成绩",
+                  "anyOf": [
+                    "19.19 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 100 米",
+          "value": "10.49 秒",
+          "holder": "弗洛伦斯·格里菲斯-乔伊纳",
+          "holderEn": "Florence Griffith-Joyner",
+          "date": "1988-07-16",
+          "venue": "印第安纳波利斯",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 100 米 保持者",
+                  "anyOf": [
+                    "Florence Griffith-Joyner",
+                    "弗洛伦斯·格里菲斯-乔伊纳"
+                  ]
+                },
+                {
+                  "label": "女子 100 米 成绩",
+                  "anyOf": [
+                    "10.49 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 200 米",
+          "value": "21.34 秒",
+          "holder": "弗洛伦斯·格里菲斯-乔伊纳",
+          "holderEn": "Florence Griffith-Joyner",
+          "date": "1988-09-29",
+          "venue": "首尔",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 200 米 保持者",
+                  "anyOf": [
+                    "Florence Griffith-Joyner",
+                    "弗洛伦斯·格里菲斯-乔伊纳"
+                  ]
+                },
+                {
+                  "label": "女子 200 米 成绩",
+                  "anyOf": [
+                    "21.34 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Athletics Records",
+          "url": "https://worldathletics.org/records/by-category/world-records",
+          "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "athletics-distance",
+      "nameZh": "田径中长跑世界纪录",
+      "nameEn": "Athletics distance world records",
+      "category": "田径",
+      "region": "世界",
+      "status": "世界纪录按世界田联公开纪录表维护。",
+      "currentChampion": null,
+      "historicalChampions": [],
+      "records": [
+        {
+          "event": "男子马拉松",
+          "value": "2:00:35",
+          "holder": "凯尔文·基普图姆",
+          "holderEn": "Kelvin Kiptum",
+          "date": "2023-10-08",
+          "venue": "芝加哥",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子马拉松 保持者",
+                  "anyOf": [
+                    "Kelvin Kiptum",
+                    "凯尔文·基普图姆"
+                  ]
+                },
+                {
+                  "label": "男子马拉松 成绩",
+                  "anyOf": [
+                    "2:00:35"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子马拉松",
+          "value": "2:09:56",
+          "holder": "露丝·切普恩盖蒂奇",
+          "holderEn": "Ruth Chepngetich",
+          "date": "2024-10-13",
+          "venue": "芝加哥",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子马拉松 保持者",
+                  "anyOf": [
+                    "Ruth Chepngetich",
+                    "露丝·切普恩盖蒂奇"
+                  ]
+                },
+                {
+                  "label": "女子马拉松 成绩",
+                  "anyOf": [
+                    "2:09:56"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "男子 10000 米",
+          "value": "26:11.00",
+          "holder": "约书亚·切普特盖",
+          "holderEn": "Joshua Cheptegei",
+          "date": "2020-10-07",
+          "venue": "瓦伦西亚",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 10000 米 保持者",
+                  "anyOf": [
+                    "Joshua Cheptegei",
+                    "约书亚·切普特盖"
+                  ]
+                },
+                {
+                  "label": "男子 10000 米 成绩",
+                  "anyOf": [
+                    "26:11.00"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 10000 米",
+          "value": "28:54.14",
+          "holder": "莱特森贝特·吉迪",
+          "holderEn": "Letesenbet Gidey",
+          "date": "2021-06-08",
+          "venue": "亨厄洛",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 10000 米 保持者",
+                  "anyOf": [
+                    "Letesenbet Gidey",
+                    "莱特森贝特·吉迪"
+                  ]
+                },
+                {
+                  "label": "女子 10000 米 成绩",
+                  "anyOf": [
+                    "28:54.14"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Athletics Records",
+          "url": "https://worldathletics.org/records/by-category/world-records",
+          "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "athletics-jumps",
+      "nameZh": "田径跳跃世界纪录",
+      "nameEn": "Athletics jump world records",
+      "category": "田径",
+      "region": "世界",
+      "status": "世界纪录按世界田联公开纪录表维护。",
+      "currentChampion": null,
+      "historicalChampions": [],
+      "records": [
+        {
+          "event": "男子撑竿跳高",
+          "value": "6.30 米",
+          "holder": "阿曼德·杜普兰蒂斯",
+          "holderEn": "Armand Duplantis",
+          "date": "2026-02-28",
+          "venue": "克莱蒙费朗",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子撑竿跳高 保持者",
+                  "anyOf": [
+                    "Armand Duplantis",
+                    "阿曼德·杜普兰蒂斯"
+                  ]
+                },
+                {
+                  "label": "男子撑竿跳高 成绩",
+                  "anyOf": [
+                    "6.30 米"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "男子跳远",
+          "value": "8.95 米",
+          "holder": "迈克·鲍威尔",
+          "holderEn": "Mike Powell",
+          "date": "1991-08-30",
+          "venue": "东京",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子跳远 保持者",
+                  "anyOf": [
+                    "Mike Powell",
+                    "迈克·鲍威尔"
+                  ]
+                },
+                {
+                  "label": "男子跳远 成绩",
+                  "anyOf": [
+                    "8.95 米"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子跳高",
+          "value": "2.10 米",
+          "holder": "雅罗斯拉娃·马胡奇赫",
+          "holderEn": "Yaroslava Mahuchikh",
+          "date": "2024-07-07",
+          "venue": "巴黎",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子跳高 保持者",
+                  "anyOf": [
+                    "Yaroslava Mahuchikh",
+                    "雅罗斯拉娃·马胡奇赫"
+                  ]
+                },
+                {
+                  "label": "女子跳高 成绩",
+                  "anyOf": [
+                    "2.10 米"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子三级跳远",
+          "value": "15.74 米",
+          "holder": "尤利马尔·罗哈斯",
+          "holderEn": "Yulimar Rojas",
+          "date": "2022-03-20",
+          "venue": "贝尔格莱德",
+          "scope": "世界纪录",
+          "sources": [
+            {
+              "title": "World Athletics Records",
+              "url": "https://worldathletics.org/records/by-category/world-records",
+              "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子三级跳远 保持者",
+                  "anyOf": [
+                    "Yulimar Rojas",
+                    "尤利马尔·罗哈斯"
+                  ]
+                },
+                {
+                  "label": "女子三级跳远 成绩",
+                  "anyOf": [
+                    "15.74 米"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Athletics Records",
+          "url": "https://worldathletics.org/records/by-category/world-records",
+          "lastCheckedAt": "2026-06-07T15:16:30.356Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://worldathletics.org/records/by-category/world-records",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "swimming-freestyle",
+      "nameZh": "游泳自由泳世界纪录",
+      "nameEn": "Swimming freestyle world records",
+      "category": "游泳",
+      "region": "世界",
+      "status": "世界纪录按世界泳联公开纪录表维护。",
+      "currentChampion": null,
+      "historicalChampions": [],
+      "records": [
+        {
+          "event": "男子 100 米自由泳",
+          "value": "46.40 秒",
+          "holder": "潘展乐",
+          "holderEn": "Pan Zhanle",
+          "date": "2024-07-31",
+          "venue": "巴黎",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 100 米自由泳 保持者",
+                  "anyOf": [
+                    "Pan Zhanle",
+                    "潘展乐"
+                  ]
+                },
+                {
+                  "label": "男子 100 米自由泳 成绩",
+                  "anyOf": [
+                    "46.40 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "男子 200 米自由泳",
+          "value": "1:42.00",
+          "holder": "保罗·比德曼",
+          "holderEn": "Paul Biedermann",
+          "date": "2009-07-28",
+          "venue": "罗马",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 200 米自由泳 保持者",
+                  "anyOf": [
+                    "Paul Biedermann",
+                    "保罗·比德曼"
+                  ]
+                },
+                {
+                  "label": "男子 200 米自由泳 成绩",
+                  "anyOf": [
+                    "1:42.00"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 100 米自由泳",
+          "value": "51.71 秒",
+          "holder": "莎拉·舍斯特伦",
+          "holderEn": "Sarah Sjostrom",
+          "date": "2017-07-23",
+          "venue": "布达佩斯",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 100 米自由泳 保持者",
+                  "anyOf": [
+                    "Sarah Sjostrom",
+                    "莎拉·舍斯特伦"
+                  ]
+                },
+                {
+                  "label": "女子 100 米自由泳 成绩",
+                  "anyOf": [
+                    "51.71 秒"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 400 米自由泳",
+          "value": "3:55.38",
+          "holder": "阿里亚妮·蒂特马斯",
+          "holderEn": "Ariarne Titmus",
+          "date": "2023-07-23",
+          "venue": "福冈",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 400 米自由泳 保持者",
+                  "anyOf": [
+                    "Ariarne Titmus",
+                    "阿里亚妮·蒂特马斯"
+                  ]
+                },
+                {
+                  "label": "女子 400 米自由泳 成绩",
+                  "anyOf": [
+                    "3:55.38"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Aquatics Records",
+          "url": "https://www.worldaquatics.com/swimming/records",
+          "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.worldaquatics.com/swimming/records",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "swimming-medley",
+      "nameZh": "游泳混合泳世界纪录",
+      "nameEn": "Swimming medley world records",
+      "category": "游泳",
+      "region": "世界",
+      "status": "世界纪录按世界泳联公开纪录表维护。",
+      "currentChampion": null,
+      "historicalChampions": [],
+      "records": [
+        {
+          "event": "男子 200 米个人混合泳",
+          "value": "1:54.00",
+          "holder": "莱昂·马尔尚",
+          "holderEn": "Leon Marchand",
+          "date": "2025-07-30",
+          "venue": "新加坡",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 200 米个人混合泳 保持者",
+                  "anyOf": [
+                    "Leon Marchand",
+                    "莱昂·马尔尚"
+                  ]
+                },
+                {
+                  "label": "男子 200 米个人混合泳 成绩",
+                  "anyOf": [
+                    "1:54.00"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "男子 400 米个人混合泳",
+          "value": "4:02.50",
+          "holder": "莱昂·马尔尚",
+          "holderEn": "Leon Marchand",
+          "date": "2023-07-23",
+          "venue": "福冈",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "男子 400 米个人混合泳 保持者",
+                  "anyOf": [
+                    "Leon Marchand",
+                    "莱昂·马尔尚"
+                  ]
+                },
+                {
+                  "label": "男子 400 米个人混合泳 成绩",
+                  "anyOf": [
+                    "4:02.50"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        },
+        {
+          "event": "女子 400 米个人混合泳",
+          "value": "4:23.65",
+          "holder": "萨默·麦金托什",
+          "holderEn": "Summer McIntosh",
+          "date": "2025-06-07",
+          "venue": "维多利亚",
+          "scope": "长池世界纪录",
+          "sources": [
+            {
+              "title": "World Aquatics Records",
+              "url": "https://www.worldaquatics.com/swimming/records",
+              "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+              "httpStatus": 200,
+              "reachable": true,
+              "finalUrl": "https://www.worldaquatics.com/swimming/records",
+              "markerStatus": "stale",
+              "missingMarkers": [
+                {
+                  "label": "女子 400 米个人混合泳 保持者",
+                  "anyOf": [
+                    "Summer McIntosh",
+                    "萨默·麦金托什"
+                  ]
+                },
+                {
+                  "label": "女子 400 米个人混合泳 成绩",
+                  "anyOf": [
+                    "4:23.65"
+                  ]
+                }
+              ]
+            }
+          ],
+          "needsReview": true
+        }
+      ],
+      "sources": [
+        {
+          "title": "World Aquatics Records",
+          "url": "https://www.worldaquatics.com/swimming/records",
+          "lastCheckedAt": "2026-06-07T15:16:30.609Z",
+          "httpStatus": 200,
+          "reachable": true,
+          "finalUrl": "https://www.worldaquatics.com/swimming/records",
+          "markerStatus": "unverified",
+          "missingMarkers": []
+        }
+      ],
+      "needsReview": true
+    }
+  ],
+  "refresh": {
+    "intervalMs": 3600000,
+    "checkedAt": "2026-06-07T15:16:39.111Z",
+    "sourceCount": 26,
+    "reachableCount": 18,
+    "failedCount": 8
+  }
+}
