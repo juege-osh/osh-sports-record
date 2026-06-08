@@ -1,8 +1,10 @@
 const state = {
   meta: null,
   sports: [],
+  allSports: [],
   q: "",
-  category: ""
+  category: "",
+  apiAvailable: true
 };
 
 const metaEl = document.querySelector("#meta");
@@ -31,8 +33,24 @@ await loadMeta();
 await loadSports();
 
 async function loadMeta() {
-  state.meta = await fetchJson("/api/meta");
-  metaEl.textContent = `数据更新时间：${formatTime(state.meta.generatedAt)}，共 ${state.meta.total} 个项目，每小时自动更新`;
+  try {
+    state.meta = await fetchJson("/api/meta");
+  } catch {
+    state.apiAvailable = false;
+    const snapshot = await fetchJson("/data/sports.snapshot.json");
+    state.allSports = snapshot.sports || [];
+    state.meta = {
+      generatedAt: snapshot.generatedAt,
+      refresh: snapshot.refresh || null,
+      categories: [...new Set(state.allSports.map((sport) => sport.category).filter(Boolean))].sort((a, b) =>
+        a.localeCompare(b, "zh-CN")
+      ),
+      total: state.allSports.length
+    };
+  }
+
+  const mode = state.apiAvailable ? "每小时自动更新" : "静态快照";
+  metaEl.textContent = `数据更新时间：${formatTime(state.meta.generatedAt)}，共 ${state.meta.total} 个项目，${mode}`;
 
   categorySelect.innerHTML = `<option value="">全部分类</option>${state.meta.categories
     .map((category) => `<option value="${escapeAttr(category)}">${escapeHtml(category)}</option>`)
@@ -40,6 +58,14 @@ async function loadMeta() {
 }
 
 async function loadSports() {
+  if (!state.apiAvailable) {
+    const items = filterSnapshotSports().map(toSnapshotListItem);
+    state.sports = items;
+    renderSummary(items);
+    renderGrid(items);
+    return;
+  }
+
   const params = new URLSearchParams();
   if (state.q) params.set("q", state.q);
   if (state.category) params.set("category", state.category);
@@ -97,7 +123,10 @@ function renderGrid(items) {
 }
 
 async function openDetail(id) {
-  const sport = await fetchJson(`/api/sports/${encodeURIComponent(id)}`);
+  const sport = state.apiAvailable
+    ? await fetchJson(`/api/sports/${encodeURIComponent(id)}`)
+    : state.allSports.find((item) => item.id === id);
+  if (!sport) return;
   dialogTitle.textContent = sport.nameZh;
   dialogSubTitle.textContent = `${sport.nameEn || ""} · ${sport.category} · ${sport.region || ""}`;
   dialogBody.innerHTML = `
@@ -124,6 +153,12 @@ async function openDetail(id) {
 }
 
 async function refreshNow() {
+  if (!state.apiAvailable) {
+    await loadMeta();
+    await loadSports();
+    return;
+  }
+
   refreshButton.disabled = true;
   refreshButton.textContent = "刷新中...";
   try {
@@ -138,6 +173,58 @@ async function refreshNow() {
 
 function metric(label, value) {
   return `<div class="metric"><strong>${value}</strong><span>${label}</span></div>`;
+}
+
+function filterSnapshotSports() {
+  const q = state.q.trim().toLowerCase();
+  const category = state.category.trim();
+
+  return state.allSports.filter((sport) => {
+    if (category && sport.category !== category) return false;
+    if (!q) return true;
+    return buildSearchText(sport).includes(q);
+  });
+}
+
+function toSnapshotListItem(sport) {
+  return {
+    id: sport.id,
+    nameZh: sport.nameZh,
+    nameEn: sport.nameEn,
+    category: sport.category,
+    region: sport.region,
+    status: sport.status,
+    currentChampion: sport.currentChampion
+      ? {
+          season: sport.currentChampion.season,
+          winner: sport.currentChampion.winner,
+          winnerEn: sport.currentChampion.winnerEn,
+          note: sport.currentChampion.note,
+          sources: sport.currentChampion.sources || []
+        }
+      : null,
+    recordCount: sport.records?.length || 0,
+    historyCount: sport.historicalChampions?.length || 0,
+    needsReview: Boolean(sport.needsReview)
+  };
+}
+
+function buildSearchText(sport) {
+  return [
+    sport.id,
+    sport.nameZh,
+    sport.nameEn,
+    sport.category,
+    sport.region,
+    sport.status,
+    sport.currentChampion?.winner,
+    sport.currentChampion?.winnerEn,
+    ...(sport.historicalChampions || []).flatMap((item) => [item.season, item.winner, item.winnerEn]),
+    ...(sport.records || []).flatMap((item) => [item.event, item.value, item.holder, item.holderEn, item.scope])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
 }
 
 function renderChampion(champion) {

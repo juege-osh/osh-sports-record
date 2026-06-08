@@ -5,6 +5,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "build:pages": "node scripts/build-pages.js",
     "start": "node src/server.js",
     "refresh": "node src/refresh.js",
     "test": "node --test",

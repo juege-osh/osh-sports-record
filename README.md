@@ -19,6 +19,14 @@ npm start
 
 默认监听 `http://localhost:8787`。
 
+也可以构建 GitHub Pages 静态版本：
+
+```bash
+npm run build:pages
+```
+
+静态版本会直接读取 `data/sports.snapshot.json`，适合没有 Node 后端的托管环境。
+
 刷新数据：
 
 ```bash
