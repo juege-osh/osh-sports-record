@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "locale": "zh-CN",
-  "generatedAt": "2026-10-31T05:44:49.774Z",
+  "generatedAt": "2026-10-31T12:34:43.245Z",
   "sports": [
     {
       "id": "nba",
@@ -19,7 +19,7 @@
           {
             "title": "NBA History: NBA Champions",
             "url": "https://www.nba.com/news/history-nba-champions",
-            "lastCheckedAt": "2026-10-31T05:44:49.881Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.451Z",
             "httpStatus": 403,
             "reachable": false,
             "finalUrl": "https://www.nba.com/news/history-nba-champions",
@@ -69,7 +69,7 @@
         {
           "title": "NBA 历届冠军",
           "url": "https://www.nba.com/news/history-nba-champions",
-          "lastCheckedAt": "2026-10-31T05:44:49.881Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.451Z",
           "httpStatus": 403,
           "reachable": false,
           "finalUrl": "https://www.nba.com/news/history-nba-champions",
@@ -95,7 +95,7 @@
           {
             "title": "All-Time WNBA Champions",
             "url": "https://www.wnba.com/all-time-wnba-champions/",
-            "lastCheckedAt": "2026-10-31T05:44:49.889Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.493Z",
             "httpStatus": 403,
             "reachable": false,
             "finalUrl": "https://www.wnba.com/all-time-wnba-champions/",
@@ -145,7 +145,7 @@
         {
           "title": "WNBA 历届冠军",
           "url": "https://www.wnba.com/all-time-wnba-champions/",
-          "lastCheckedAt": "2026-10-31T05:44:49.889Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.493Z",
           "httpStatus": 403,
           "reachable": false,
           "finalUrl": "https://www.wnba.com/all-time-wnba-champions/",
@@ -171,7 +171,7 @@
           {
             "title": "CBA 官方网站",
             "url": "https://www.cbaleague.com/",
-            "lastCheckedAt": "2026-10-31T05:44:51.226Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.371Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.cbaleague.com/",
@@ -221,7 +221,7 @@
         {
           "title": "CBA 官方网站",
           "url": "https://www.cbaleague.com/",
-          "lastCheckedAt": "2026-10-31T05:44:51.226Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.371Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.cbaleague.com/",
@@ -247,7 +247,7 @@
           {
             "title": "NFL Super Bowl LX recap",
             "url": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win/",
-            "lastCheckedAt": "2026-10-31T05:44:50.301Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.887Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win",
@@ -257,7 +257,7 @@
           {
             "title": "Pro Football Reference Super Bowl winners",
             "url": "https://www.pro-football-reference.com/super-bowl/",
-            "lastCheckedAt": "2026-10-31T05:44:49.940Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.487Z",
             "httpStatus": 403,
             "reachable": false,
             "finalUrl": "https://www.pro-football-reference.com/super-bowl/",
@@ -307,7 +307,7 @@
         {
           "title": "NFL Super Bowl LX",
           "url": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win/",
-          "lastCheckedAt": "2026-10-31T05:44:50.301Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.887Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.nfl.com/news/seahawks-patriots-in-super-bowl-lx-what-we-learned-from-seattle-s-29-13-win",
@@ -317,7 +317,7 @@
         {
           "title": "Super Bowl winners",
           "url": "https://www.pro-football-reference.com/super-bowl/",
-          "lastCheckedAt": "2026-10-31T05:44:49.940Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.487Z",
           "httpStatus": 403,
           "reachable": false,
           "finalUrl": "https://www.pro-football-reference.com/super-bowl/",
@@ -343,7 +343,7 @@
           {
             "title": "World Series winners",
             "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
-            "lastCheckedAt": "2026-10-31T05:44:49.993Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.518Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.baseball-reference.com/postseason/world-series.shtml",
@@ -385,7 +385,7 @@
         {
           "title": "World Series winners",
           "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
-          "lastCheckedAt": "2026-10-31T05:44:49.993Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.518Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.baseball-reference.com/postseason/world-series.shtml",
@@ -411,7 +411,7 @@
           {
             "title": "NHL Stanley Cup Champions",
             "url": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
-            "lastCheckedAt": "2026-10-31T05:44:50.534Z",
+            "lastCheckedAt": "2026-10-31T12:34:43.968Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
@@ -453,7 +453,7 @@
         {
           "title": "NHL 历届斯坦利杯冠军",
           "url": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
-          "lastCheckedAt": "2026-10-31T05:44:50.534Z",
+          "lastCheckedAt": "2026-10-31T12:34:43.968Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.nhl.com/news/topic/playoffs/nhl-stanley-cup-champions-winners-complete-list-287705398",
@@ -479,15 +479,23 @@
           {
             "title": "Premier League title report",
             "url": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
-            "lastCheckedAt": "2026-10-31T05:44:50.547Z",
-            "httpStatus": 200,
-            "reachable": true,
+            "lastCheckedAt": "2026-10-31T12:34:43.584Z",
+            "httpStatus": 403,
+            "reachable": false,
             "finalUrl": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
-            "markerStatus": "verified",
-            "missingMarkers": []
+            "markerStatus": "unverified",
+            "missingMarkers": [
+              {
+                "label": "当前冠军：阿森纳",
+                "anyOf": [
+                  "Arsenal",
+                  "阿森纳"
+                ]
+              }
+            ]
           }
         ],
-        "needsReview": false
+        "needsReview": true
       },
       "historicalChampions": [
         {
@@ -521,15 +529,15 @@
         {
           "title": "Premier League 冠军报道",
           "url": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
-          "lastCheckedAt": "2026-10-31T05:44:50.547Z",
-          "httpStatus": 200,
-          "reachable": true,
+          "lastCheckedAt": "2026-10-31T12:34:43.584Z",
+          "httpStatus": 403,
+          "reachable": false,
           "finalUrl": "https://www.premierleague.com/en/news/4662306/arsenal-end-22-year-wait-for-premier-league-title/",
           "markerStatus": "unverified",
           "missingMarkers": []
         }
       ],
-      "needsReview": false
+      "needsReview": true
     },
     {
       "id": "uefa-champions-league",
@@ -547,7 +555,7 @@
           {
             "title": "UEFA Champions League winners",
             "url": "https://www.uefa.com/uefachampionsleague/history/winners/",
-            "lastCheckedAt": "2026-10-31T05:44:50.352Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.087Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.uefa.com/uefachampionsleague/history/winners/",
@@ -597,7 +605,7 @@
         {
           "title": "UEFA Champions League winners",
           "url": "https://www.uefa.com/uefachampionsleague/history/winners/",
-          "lastCheckedAt": "2026-10-31T05:44:50.352Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.087Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.uefa.com/uefachampionsleague/history/winners/",
@@ -623,7 +631,7 @@
           {
             "title": "UEFA Europa League winners",
             "url": "https://www.uefa.com/uefaeuropaleague/history/winners/",
-            "lastCheckedAt": "2026-10-31T05:44:55.504Z",
+            "lastCheckedAt": "2026-10-31T12:34:46.960Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.uefa.com/uefaeuropaleague/history/winners/",
@@ -665,7 +673,7 @@
         {
           "title": "UEFA Europa League winners",
           "url": "https://www.uefa.com/uefaeuropaleague/history/winners/",
-          "lastCheckedAt": "2026-10-31T05:44:55.504Z",
+          "lastCheckedAt": "2026-10-31T12:34:46.960Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.uefa.com/uefaeuropaleague/history/winners/",
@@ -691,7 +699,7 @@
           {
             "title": "FIFA World Cup champions",
             "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
-            "lastCheckedAt": "2026-10-31T05:44:51.145Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.133Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
@@ -741,7 +749,7 @@
         {
           "title": "FIFA World Cup champions",
           "url": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
-          "lastCheckedAt": "2026-10-31T05:44:51.145Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.133Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1982-2022-italy-argentina-germany-brazil-france-spain",
@@ -767,7 +775,7 @@
           {
             "title": "FIFA Women's World Cup history",
             "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
-            "lastCheckedAt": "2026-10-31T05:44:51.234Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.123Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
@@ -817,7 +825,7 @@
         {
           "title": "FIFA Women's World Cup",
           "url": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
-          "lastCheckedAt": "2026-10-31T05:44:51.234Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.123Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.fifa.com/en/tournaments/womens/womensworldcup",
@@ -843,7 +851,7 @@
           {
             "title": "AFC Asian Cup",
             "url": "https://www.the-afc.com/en/national/afc_asian_cup.html",
-            "lastCheckedAt": "2026-10-31T05:44:50.896Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.030Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.the-afc.com/en/national/afc_asian_cup.html",
@@ -885,7 +893,7 @@
         {
           "title": "AFC Asian Cup",
           "url": "https://www.the-afc.com/en/national/afc_asian_cup.html",
-          "lastCheckedAt": "2026-10-31T05:44:50.896Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.030Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.the-afc.com/en/national/afc_asian_cup.html",
@@ -911,7 +919,7 @@
           {
             "title": "MLS Cup champions",
             "url": "https://www.mlssoccer.com/history/mls-cup",
-            "lastCheckedAt": "2026-10-31T05:44:51.376Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.423Z",
             "httpStatus": 404,
             "reachable": false,
             "finalUrl": "https://www.mlssoccer.com/history/mls-cup",
@@ -961,7 +969,7 @@
         {
           "title": "MLS Cup history",
           "url": "https://www.mlssoccer.com/history/mls-cup",
-          "lastCheckedAt": "2026-10-31T05:44:51.376Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.423Z",
           "httpStatus": 404,
           "reachable": false,
           "finalUrl": "https://www.mlssoccer.com/history/mls-cup",
@@ -987,7 +995,7 @@
           {
             "title": "Formula 1 champions",
             "url": "https://www.formula1.com/en/results",
-            "lastCheckedAt": "2026-10-31T05:44:51.025Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.200Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.formula1.com/en/results/2026/races",
@@ -1005,7 +1013,7 @@
           {
             "title": "McLaren 2025 championship",
             "url": "https://www.mclaren.com/racing/heritage/formula-1/2025-championship/",
-            "lastCheckedAt": "2026-10-31T05:44:52.238Z",
+            "lastCheckedAt": "2026-10-31T12:34:45.250Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.mclaren.com/racing/heritage/formula-1/2025-championship/",
@@ -1063,7 +1071,7 @@
             {
               "title": "Formula 1 records",
               "url": "https://www.formula1.com/",
-              "lastCheckedAt": "2026-10-31T05:44:51.164Z",
+              "lastCheckedAt": "2026-10-31T12:34:44.173Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.formula1.com/",
@@ -1085,7 +1093,7 @@
         {
           "title": "Formula 1 results",
           "url": "https://www.formula1.com/en/results",
-          "lastCheckedAt": "2026-10-31T05:44:51.025Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.200Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.formula1.com/en/results/2026/races",
@@ -1111,7 +1119,7 @@
           {
             "title": "Australian Open champions",
             "url": "https://ausopen.com/history/honour-roll",
-            "lastCheckedAt": "2026-10-31T05:44:51.442Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.262Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://ausopen.com/history/honour-roll",
@@ -1161,7 +1169,7 @@
         {
           "title": "Australian Open honour roll",
           "url": "https://ausopen.com/history/honour-roll",
-          "lastCheckedAt": "2026-10-31T05:44:51.442Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.262Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://ausopen.com/history/honour-roll",
@@ -1187,7 +1195,7 @@
           {
             "title": "Australian Open champions",
             "url": "https://ausopen.com/history/honour-roll",
-            "lastCheckedAt": "2026-10-31T05:44:51.442Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.262Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://ausopen.com/history/honour-roll",
@@ -1237,7 +1245,7 @@
         {
           "title": "Australian Open honour roll",
           "url": "https://ausopen.com/history/honour-roll",
-          "lastCheckedAt": "2026-10-31T05:44:51.442Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.262Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://ausopen.com/history/honour-roll",
@@ -1263,7 +1271,7 @@
           {
             "title": "Roland-Garros winners",
             "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-men",
-            "lastCheckedAt": "2026-10-31T05:44:51.848Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.824Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.rolandgarros.com/en-us/",
@@ -1313,7 +1321,7 @@
         {
           "title": "Roland-Garros men's honour roll",
           "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-men",
-          "lastCheckedAt": "2026-10-31T05:44:51.848Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.824Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.rolandgarros.com/en-us/",
@@ -1339,7 +1347,7 @@
           {
             "title": "Roland-Garros winners",
             "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-women",
-            "lastCheckedAt": "2026-10-31T05:44:51.898Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.888Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.rolandgarros.com/en-us/",
@@ -1389,7 +1397,7 @@
         {
           "title": "Roland-Garros women's honour roll",
           "url": "https://www.rolandgarros.com/en-us/page/palmares-honour-roll-single-women",
-          "lastCheckedAt": "2026-10-31T05:44:51.898Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.888Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.rolandgarros.com/en-us/",
@@ -1415,7 +1423,7 @@
           {
             "title": "Wimbledon roll of honour",
             "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
-            "lastCheckedAt": "2026-10-31T05:44:51.825Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.677Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
@@ -1465,7 +1473,7 @@
         {
           "title": "Wimbledon champions",
           "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
-          "lastCheckedAt": "2026-10-31T05:44:51.825Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.677Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
@@ -1491,7 +1499,7 @@
           {
             "title": "Wimbledon roll of honour",
             "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
-            "lastCheckedAt": "2026-10-31T05:44:51.825Z",
+            "lastCheckedAt": "2026-10-31T12:34:44.677Z",
             "httpStatus": 200,
             "reachable": true,
             "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
@@ -1541,7 +1549,7 @@
         {
           "title": "Wimbledon champions",
           "url": "https://www.wimbledon.com/en_GB/draws_archive/champions.html",
-          "lastCheckedAt": "2026-10-31T05:44:51.825Z",
+          "lastCheckedAt": "2026-10-31T12:34:44.677Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.wimbledon.com/en_GB/about/history",
@@ -1567,7 +1575,7 @@
           {
             "title": "US Open champions",
             "url": "https://www.usopen.org/en_US/visit/history/mschamps.html",
-            "lastCheckedAt": "2026-10-31T05:45:01.443Z",
+            "lastCheckedAt": "2026-10-31T12:34:54.424Z",
             "httpStatus": 0,
             "reachable": false,
             "finalUrl": "https://www.usopen.org/en_US/visit/history/mschamps.html",
@@ -1617,7 +1625,7 @@
         {
           "title": "US Open men's champions",
           "url": "https://www.usopen.org/en_US/visit/history/mschamps.html",
-          "lastCheckedAt": "2026-10-31T05:45:01.443Z",
+          "lastCheckedAt": "2026-10-31T12:34:54.424Z",
           "httpStatus": 0,
           "reachable": false,
           "finalUrl": "https://www.usopen.org/en_US/visit/history/mschamps.html",
@@ -1643,7 +1651,7 @@
           {
             "title": "US Open champions",
             "url": "https://www.usopen.org/en_US/visit/history/wschamps.html",
-            "lastCheckedAt": "2026-10-31T05:45:01.825Z",
+            "lastCheckedAt": "2026-10-31T12:34:54.678Z",
             "httpStatus": 0,
             "reachable": false,
             "finalUrl": "https://www.usopen.org/en_US/visit/history/wschamps.html",
@@ -1693,7 +1701,7 @@
         {
           "title": "US Open women's champions",
           "url": "https://www.usopen.org/en_US/visit/history/wschamps.html",
-          "lastCheckedAt": "2026-10-31T05:45:01.825Z",
+          "lastCheckedAt": "2026-10-31T12:34:54.678Z",
           "httpStatus": 0,
           "reachable": false,
           "finalUrl": "https://www.usopen.org/en_US/visit/history/wschamps.html",
@@ -1719,7 +1727,7 @@
           {
             "title": "Olympics Paris 2024 medal table",
             "url": "https://olympics.com/en/paris-2024/medals",
-            "lastCheckedAt": "2026-10-31T05:45:01.847Z",
+            "lastCheckedAt": "2026-10-31T12:34:54.824Z",
             "httpStatus": 0,
             "reachable": false,
             "finalUrl": "https://olympics.com/en/paris-2024/medals",
@@ -1769,7 +1777,7 @@
         {
           "title": "Paris 2024 medals",
           "url": "https://olympics.com/en/paris-2024/medals",
-          "lastCheckedAt": "2026-10-31T05:45:01.847Z",
+          "lastCheckedAt": "2026-10-31T12:34:54.824Z",
           "httpStatus": 0,
           "reachable": false,
           "finalUrl": "https://olympics.com/en/paris-2024/medals",
@@ -1801,7 +1809,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -1837,7 +1845,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -1873,7 +1881,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -1909,7 +1917,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -1938,7 +1946,7 @@
         {
           "title": "World Athletics Records",
           "url": "https://worldathletics.org/records/by-category/world-records",
-          "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+          "lastCheckedAt": "2026-10-31T12:34:45.463Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -1970,7 +1978,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2006,7 +2014,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2042,7 +2050,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2078,7 +2086,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2107,7 +2115,7 @@
         {
           "title": "World Athletics Records",
           "url": "https://worldathletics.org/records/by-category/world-records",
-          "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+          "lastCheckedAt": "2026-10-31T12:34:45.463Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2139,7 +2147,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2175,7 +2183,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2211,7 +2219,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2247,7 +2255,7 @@
             {
               "title": "World Athletics Records",
               "url": "https://worldathletics.org/records/by-category/world-records",
-              "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.463Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2276,7 +2284,7 @@
         {
           "title": "World Athletics Records",
           "url": "https://worldathletics.org/records/by-category/world-records",
-          "lastCheckedAt": "2026-10-31T05:44:52.944Z",
+          "lastCheckedAt": "2026-10-31T12:34:45.463Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://worldathletics.org/records/by-category/world-records",
@@ -2308,7 +2316,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2344,7 +2352,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2380,7 +2388,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2416,7 +2424,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2445,7 +2453,7 @@
         {
           "title": "World Aquatics Records",
           "url": "https://www.worldaquatics.com/swimming/records",
-          "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+          "lastCheckedAt": "2026-10-31T12:34:45.699Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2477,7 +2485,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2513,7 +2521,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2549,7 +2557,7 @@
             {
               "title": "World Aquatics Records",
               "url": "https://www.worldaquatics.com/swimming/records",
-              "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+              "lastCheckedAt": "2026-10-31T12:34:45.699Z",
               "httpStatus": 200,
               "reachable": true,
               "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2578,7 +2586,7 @@
         {
           "title": "World Aquatics Records",
           "url": "https://www.worldaquatics.com/swimming/records",
-          "lastCheckedAt": "2026-10-31T05:44:52.834Z",
+          "lastCheckedAt": "2026-10-31T12:34:45.699Z",
           "httpStatus": 200,
           "reachable": true,
           "finalUrl": "https://www.worldaquatics.com/swimming/records",
@@ -2591,9 +2599,9 @@
   ],
   "refresh": {
     "intervalMs": 3600000,
-    "checkedAt": "2026-10-31T05:45:01.863Z",
+    "checkedAt": "2026-10-31T12:34:55.067Z",
     "sourceCount": 26,
-    "reachableCount": 19,
-    "failedCount": 7
+    "reachableCount": 18,
+    "failedCount": 8
   }
 }
